@@ -1,0 +1,17 @@
+D:\YandexDisk\Binance1\Binance1\bin\Debug\net6.0\Binance1.exe
+D:\YandexDisk\Binance1\Binance1\bin\Debug\net6.0\Binance1.deps.json
+D:\YandexDisk\Binance1\Binance1\bin\Debug\net6.0\Binance1.runtimeconfig.json
+D:\YandexDisk\Binance1\Binance1\bin\Debug\net6.0\Binance1.dll
+D:\YandexDisk\Binance1\Binance1\bin\Debug\net6.0\Binance1.pdb
+D:\YandexDisk\Binance1\Binance1\obj\Debug\net6.0\Binance1.csproj.AssemblyReference.cache
+D:\YandexDisk\Binance1\Binance1\obj\Debug\net6.0\Binance1.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Binance1\Binance1\obj\Debug\net6.0\Binance1.AssemblyInfoInputs.cache
+D:\YandexDisk\Binance1\Binance1\obj\Debug\net6.0\Binance1.AssemblyInfo.cs
+D:\YandexDisk\Binance1\Binance1\obj\Debug\net6.0\Binance1.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Binance1\Binance1\obj\Debug\net6.0\Binance1.dll
+D:\YandexDisk\Binance1\Binance1\obj\Debug\net6.0\refint\Binance1.dll
+D:\YandexDisk\Binance1\Binance1\obj\Debug\net6.0\Binance1.pdb
+D:\YandexDisk\Binance1\Binance1\obj\Debug\net6.0\Binance1.genruntimeconfig.cache
+D:\YandexDisk\Binance1\Binance1\obj\Debug\net6.0\ref\Binance1.dll
+D:\YandexDisk\Binance1\Binance1\bin\Debug\net6.0\websocket-sharp.dll
+D:\YandexDisk\Binance1\Binance1\obj\Debug\net6.0\Binance1.csproj.CopyComplete
